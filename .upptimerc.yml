@@ -9,10 +9,12 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Maxis Fibre Penang
-    url: jianny.tplinkdns.com
   - name: Facebook
     url: https://www.facebook.com
+  - name: Whatsapp
+    url: https://wa.me/601152808880
+  - name: Maxis Bukit Mertajam
+    url: jianny.tplinkdns.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -26,8 +28,10 @@ status-website:
   navbar:
     - title: Status
       href: /
-        #    - title: GitHub
-        #href: https://github.com/$OWNER/$REPO
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+    - title: Homepage
+      href: https://jianny.net
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

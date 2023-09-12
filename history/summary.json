@@ -54,26 +54,6 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Maxis Fibre Penang",
-    "url": "jianny.tplinkdns.com",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "maxis-fibre-penang",
-    "status": "down",
-    "uptime": "77.14%",
-    "uptimeDay": "77.14%",
-    "uptimeWeek": "77.14%",
-    "uptimeMonth": "77.14%",
-    "uptimeYear": "77.14%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-09-12": 0
-    }
-  },
-  {
     "name": "Facebook",
     "url": "https://www.facebook.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.facebook.com.ico",
@@ -84,11 +64,49 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 330,
-    "timeWeek": 330,
-    "timeMonth": 330,
-    "timeYear": 330,
+    "time": 207,
+    "timeDay": 207,
+    "timeWeek": 207,
+    "timeMonth": 207,
+    "timeYear": 207,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Whatsapp",
+    "url": "https://wa.me/601152808880",
+    "icon": "https://icons.duckduckgo.com/ip3/wa.me.ico",
+    "slug": "whatsapp",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 547,
+    "timeDay": 547,
+    "timeWeek": 547,
+    "timeMonth": 547,
+    "timeYear": 547,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Maxis Bukit Mertajam",
+    "url": "jianny.tplinkdns.com",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "maxis-bukit-mertajam",
+    "status": "down",
+    "uptime": "88.28%",
+    "uptimeDay": "88.28%",
+    "uptimeWeek": "88.28%",
+    "uptimeMonth": "88.28%",
+    "uptimeYear": "88.28%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-09-12": 0
+    }
   }
 ]

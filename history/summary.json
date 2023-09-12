@@ -88,5 +88,43 @@
     "timeMonth": 591,
     "timeYear": 591,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Azure",
+    "url": "https://portal.azure.com",
+    "icon": "https://icons.duckduckgo.com/ip3/portal.azure.com.ico",
+    "slug": "azure",
+    "status": "down",
+    "uptime": "9.13%",
+    "uptimeDay": "9.13%",
+    "uptimeWeek": "9.13%",
+    "uptimeMonth": "9.13%",
+    "uptimeYear": "9.13%",
+    "time": 23,
+    "timeDay": 23,
+    "timeWeek": 23,
+    "timeMonth": 23,
+    "timeYear": 23,
+    "dailyMinutesDown": {
+      "2023-09-12": 0
+    }
+  },
+  {
+    "name": "O365",
+    "url": "https://outlook.office.com",
+    "icon": "https://icons.duckduckgo.com/ip3/outlook.office.com.ico",
+    "slug": "o365",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 551,
+    "timeDay": 551,
+    "timeWeek": 551,
+    "timeMonth": 551,
+    "timeYear": 551,
+    "dailyMinutesDown": {}
   }
 ]

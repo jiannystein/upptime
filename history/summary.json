@@ -40,18 +40,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 401,
-    "timeWeek": 281,
-    "timeMonth": 317,
-    "timeYear": 317,
-    "dailyMinutesDown": {}
+    "time": 309,
+    "timeDay": 274,
+    "timeWeek": 267,
+    "timeMonth": 309,
+    "timeYear": 309,
+    "dailyMinutesDown": {
+      "2023-09-25": 0
+    }
   },
   {
     "name": "Facebook",

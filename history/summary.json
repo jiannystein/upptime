@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 66,
+    "timeDay": 76,
     "timeWeek": 125,
     "timeMonth": 93,
     "timeYear": 103,
@@ -24,18 +24,16 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 209,
-    "timeWeek": 283,
+    "timeDay": 189,
+    "timeWeek": 297,
     "timeMonth": 233,
     "timeYear": 203,
-    "dailyMinutesDown": {
-      "2024-03-06": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 502,
-    "timeDay": 361,
-    "timeWeek": 349,
-    "timeMonth": 311,
-    "timeYear": 502,
+    "time": 501,
+    "timeDay": 348,
+    "timeWeek": 378,
+    "timeMonth": 306,
+    "timeYear": 501,
     "dailyMinutesDown": {
       "2024-01-10": 127,
       "2023-12-28": 16,
@@ -75,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 280,
-    "timeDay": 257,
-    "timeWeek": 259,
-    "timeMonth": 292,
-    "timeYear": 280,
+    "time": 281,
+    "timeDay": 334,
+    "timeWeek": 276,
+    "timeMonth": 286,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2023-12-06": 31
     }
@@ -96,9 +94,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 733,
-    "timeDay": 913,
-    "timeWeek": 685,
-    "timeMonth": 739,
+    "timeDay": 702,
+    "timeWeek": 693,
+    "timeMonth": 748,
     "timeYear": 733,
     "dailyMinutesDown": {}
   },
@@ -113,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 392,
-    "timeWeek": 233,
-    "timeMonth": 279,
-    "timeYear": 305,
+    "time": 304,
+    "timeDay": 133,
+    "timeWeek": 205,
+    "timeMonth": 277,
+    "timeYear": 304,
     "dailyMinutesDown": {}
   }
 ]

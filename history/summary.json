@@ -89,18 +89,20 @@
     "url": "https://wa.me/601152808880",
     "icon": "https://icons.duckduckgo.com/ip3/wa.me.ico",
     "slug": "whatsapp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 739,
-    "timeDay": 1002,
-    "timeWeek": 894,
-    "timeMonth": 809,
-    "timeYear": 739,
-    "dailyMinutesDown": {}
+    "time": 743,
+    "timeDay": 1368,
+    "timeWeek": 999,
+    "timeMonth": 838,
+    "timeYear": 743,
+    "dailyMinutesDown": {
+      "2024-05-15": 0
+    }
   },
   {
     "name": "O365",

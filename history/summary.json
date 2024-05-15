@@ -89,19 +89,19 @@
     "url": "https://wa.me/601152808880",
     "icon": "https://icons.duckduckgo.com/ip3/wa.me.ico",
     "slug": "whatsapp",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 743,
-    "timeDay": 1368,
-    "timeWeek": 999,
-    "timeMonth": 838,
-    "timeYear": 743,
+    "time": 744,
+    "timeDay": 1262,
+    "timeWeek": 1005,
+    "timeMonth": 845,
+    "timeYear": 744,
     "dailyMinutesDown": {
-      "2024-05-15": 0
+      "2024-05-15": 11
     }
   },
   {

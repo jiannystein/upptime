@@ -13,7 +13,7 @@
     "time": 111,
     "timeDay": 87,
     "timeWeek": 87,
-    "timeMonth": 118,
+    "timeMonth": 119,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2024-05-01": 30
@@ -33,7 +33,7 @@
     "time": 213,
     "timeDay": 154,
     "timeWeek": 200,
-    "timeMonth": 206,
+    "timeMonth": 199,
     "timeYear": 213,
     "dailyMinutesDown": {}
   },
@@ -78,7 +78,7 @@
     "time": 357,
     "timeDay": 583,
     "timeWeek": 408,
-    "timeMonth": 529,
+    "timeMonth": 534,
     "timeYear": 357,
     "dailyMinutesDown": {
       "2023-12-06": 31
@@ -98,7 +98,7 @@
     "time": 792,
     "timeDay": 776,
     "timeWeek": 748,
-    "timeMonth": 1073,
+    "timeMonth": 1074,
     "timeYear": 792,
     "dailyMinutesDown": {}
   },
@@ -107,19 +107,19 @@
     "url": "https://outlook.office.com",
     "icon": "https://icons.duckduckgo.com/ip3/outlook.office.com.ico",
     "slug": "o365",
-    "status": "down",
-    "uptime": "98.89%",
-    "uptimeDay": "86.77%",
-    "uptimeWeek": "87.44%",
-    "uptimeMonth": "88.88%",
-    "uptimeYear": "98.89%",
+    "status": "up",
+    "uptime": "98.88%",
+    "uptimeDay": "85.93%",
+    "uptimeWeek": "87.32%",
+    "uptimeMonth": "88.85%",
+    "uptimeYear": "98.88%",
     "time": 273,
     "timeDay": 248,
     "timeWeek": 250,
     "timeMonth": 253,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2024-07-20": 191,
+      "2024-07-20": 203,
       "2024-07-19": 162,
       "2024-07-18": 78,
       "2024-07-17": 172,

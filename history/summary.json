@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 112,
-    "timeDay": 357,
+    "timeDay": 88,
     "timeWeek": 138,
-    "timeMonth": 123,
+    "timeMonth": 119,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2024-05-01": 30
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 755,
-    "timeWeek": 305,
-    "timeMonth": 219,
-    "timeYear": 215,
+    "time": 216,
+    "timeDay": 488,
+    "timeWeek": 353,
+    "timeMonth": 234,
+    "timeYear": 216,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 419,
-    "timeDay": 343,
-    "timeWeek": 272,
-    "timeMonth": 303,
-    "timeYear": 419,
+    "time": 418,
+    "timeDay": 109,
+    "timeWeek": 271,
+    "timeMonth": 301,
+    "timeYear": 418,
     "dailyMinutesDown": {
       "2024-01-10": 127,
       "2023-12-28": 16,
@@ -75,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 358,
-    "timeDay": 437,
-    "timeWeek": 468,
-    "timeMonth": 497,
-    "timeYear": 358,
+    "time": 360,
+    "timeDay": 756,
+    "timeWeek": 493,
+    "timeMonth": 500,
+    "timeYear": 360,
     "dailyMinutesDown": {
       "2023-12-06": 31
     }
@@ -96,9 +96,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 790,
-    "timeDay": 441,
-    "timeWeek": 697,
-    "timeMonth": 1000,
+    "timeDay": 640,
+    "timeWeek": 678,
+    "timeMonth": 985,
     "timeYear": 790,
     "dailyMinutesDown": {}
   },
@@ -107,15 +107,15 @@
     "url": "https://outlook.office.com",
     "icon": "https://icons.duckduckgo.com/ip3/outlook.office.com.ico",
     "slug": "o365",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "79.25%",
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "79.24%",
     "uptimeWeek": "85.15%",
-    "uptimeMonth": "93.42%",
-    "uptimeYear": "99.37%",
+    "uptimeMonth": "93.48%",
+    "uptimeYear": "99.38%",
     "time": 270,
-    "timeDay": 245,
-    "timeWeek": 259,
+    "timeDay": 255,
+    "timeWeek": 260,
     "timeMonth": 256,
     "timeYear": 270,
     "dailyMinutesDown": {
@@ -133,7 +133,7 @@
       "2024-07-16": 258,
       "2024-07-15": 262,
       "2024-07-14": 141,
-      "2024-07-13": 117
+      "2024-07-13": 91
     }
   }
 ]

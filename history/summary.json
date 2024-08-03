@@ -107,14 +107,14 @@
     "url": "https://outlook.office.com",
     "icon": "https://icons.duckduckgo.com/ip3/outlook.office.com.ico",
     "slug": "o365",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "88.93%",
+    "uptimeDay": "91.41%",
     "uptimeWeek": "86.19%",
-    "uptimeMonth": "93.47%",
+    "uptimeMonth": "93.52%",
     "uptimeYear": "99.39%",
     "time": 265,
-    "timeDay": 227,
+    "timeDay": 225,
     "timeWeek": 245,
     "timeMonth": 252,
     "timeYear": 265,
@@ -133,8 +133,7 @@
       "2024-07-23": 156,
       "2024-07-22": 114,
       "2024-07-21": 222,
-      "2024-07-20": 197,
-      "2024-07-19": 18
+      "2024-07-20": 197
     }
   }
 ]

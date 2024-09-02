@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 112,
-    "timeDay": 78,
+    "time": 111,
+    "timeDay": 83,
     "timeWeek": 100,
-    "timeMonth": 109,
-    "timeYear": 112,
+    "timeMonth": 108,
+    "timeYear": 111,
     "dailyMinutesDown": {
       "2024-05-01": 30
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 263,
-    "timeWeek": 300,
-    "timeMonth": 254,
+    "timeDay": 442,
+    "timeWeek": 357,
+    "timeMonth": 266,
     "timeYear": 220,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.91%",
     "time": 406,
-    "timeDay": 99,
-    "timeWeek": 285,
-    "timeMonth": 302,
+    "timeDay": 437,
+    "timeWeek": 327,
+    "timeMonth": 311,
     "timeYear": 406,
     "dailyMinutesDown": {
       "2024-08-17": 15,
@@ -77,9 +77,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 362,
-    "timeDay": 700,
-    "timeWeek": 461,
-    "timeMonth": 382,
+    "timeDay": 420,
+    "timeWeek": 418,
+    "timeMonth": 388,
     "timeYear": 362,
     "dailyMinutesDown": {
       "2023-12-06": 31
@@ -97,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 790,
-    "timeDay": 1099,
-    "timeWeek": 826,
-    "timeMonth": 777,
+    "timeDay": 861,
+    "timeWeek": 787,
+    "timeMonth": 774,
     "timeYear": 790,
     "dailyMinutesDown": {}
   },
@@ -110,17 +110,17 @@
     "slug": "o365",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "96.05%",
-    "uptimeWeek": "92.75%",
-    "uptimeMonth": "94.43%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "92.95%",
+    "uptimeMonth": "94.42%",
     "uptimeYear": "99.52%",
     "time": 259,
-    "timeDay": 212,
-    "timeWeek": 238,
+    "timeDay": 205,
+    "timeWeek": 237,
     "timeMonth": 250,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2024-09-01": 39,
+      "2024-09-01": 29,
       "2024-08-31": 77,
       "2024-08-30": 114,
       "2024-08-29": 99,
@@ -139,7 +139,7 @@
       "2024-08-16": 116,
       "2024-08-15": 109,
       "2024-08-14": 153,
-      "2024-08-13": 33
+      "2024-08-13": 48
     }
   }
 ]

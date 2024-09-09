@@ -44,9 +44,9 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.91%",
     "time": 404,
     "timeDay": 367,
@@ -54,7 +54,6 @@
     "timeMonth": 316,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2024-09-09": 9,
       "2024-08-17": 15,
       "2024-01-10": 127,
       "2023-12-28": 16,
@@ -109,15 +108,15 @@
     "url": "https://outlook.office.com",
     "icon": "https://icons.duckduckgo.com/ip3/outlook.office.com.ico",
     "slug": "o365",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "96.18%",
+    "uptimeDay": "96.16%",
     "uptimeWeek": "89.19%",
-    "uptimeMonth": "93.99%",
+    "uptimeMonth": "94.04%",
     "uptimeYear": "99.50%",
     "time": 261,
-    "timeDay": 250,
-    "timeWeek": 279,
+    "timeDay": 254,
+    "timeWeek": 278,
     "timeMonth": 249,
     "timeYear": 261,
     "dailyMinutesDown": {
@@ -139,7 +138,7 @@
       "2024-08-25": 151,
       "2024-08-24": 243,
       "2024-08-23": 141,
-      "2024-08-22": 90
+      "2024-08-22": 67
     }
   }
 ]

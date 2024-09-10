@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 112,
-    "timeDay": 85,
-    "timeWeek": 166,
+    "timeDay": 89,
+    "timeWeek": 167,
     "timeMonth": 122,
     "timeYear": 112,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 493,
-    "timeWeek": 261,
-    "timeMonth": 274,
+    "timeDay": 229,
+    "timeWeek": 272,
+    "timeMonth": 275,
     "timeYear": 221,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.91%",
     "time": 404,
-    "timeDay": 367,
-    "timeWeek": 327,
-    "timeMonth": 316,
+    "timeDay": 271,
+    "timeWeek": 335,
+    "timeMonth": 309,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2024-08-17": 15,
@@ -76,11 +76,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 364,
-    "timeDay": 474,
-    "timeWeek": 458,
-    "timeMonth": 403,
-    "timeYear": 364,
+    "time": 365,
+    "timeDay": 685,
+    "timeWeek": 452,
+    "timeMonth": 415,
+    "timeYear": 365,
     "dailyMinutesDown": {
       "2023-12-06": 31
     }
@@ -97,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 788,
-    "timeDay": 826,
-    "timeWeek": 656,
-    "timeMonth": 747,
+    "timeDay": 1034,
+    "timeWeek": 733,
+    "timeMonth": 754,
     "timeYear": 788,
     "dailyMinutesDown": {}
   },
@@ -108,18 +108,19 @@
     "url": "https://outlook.office.com",
     "icon": "https://icons.duckduckgo.com/ip3/outlook.office.com.ico",
     "slug": "o365",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "94.86%",
+    "uptimeDay": "94.85%",
     "uptimeWeek": "89.00%",
-    "uptimeMonth": "94.00%",
+    "uptimeMonth": "94.04%",
     "uptimeYear": "99.50%",
     "time": 261,
-    "timeDay": 257,
-    "timeWeek": 278,
+    "timeDay": 238,
+    "timeWeek": 276,
     "timeMonth": 249,
     "timeYear": 261,
     "dailyMinutesDown": {
+      "2024-09-10": 0,
       "2024-09-09": 74,
       "2024-09-08": 160,
       "2024-09-07": 353,
@@ -138,7 +139,7 @@
       "2024-08-25": 151,
       "2024-08-24": 243,
       "2024-08-23": 141,
-      "2024-08-22": 67
+      "2024-08-22": 48
     }
   }
 ]

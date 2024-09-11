@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 112,
-    "timeDay": 89,
-    "timeWeek": 167,
-    "timeMonth": 122,
+    "timeDay": 100,
+    "timeWeek": 169,
+    "timeMonth": 118,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2024-05-01": 30
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 229,
-    "timeWeek": 272,
-    "timeMonth": 275,
+    "timeDay": 196,
+    "timeWeek": 264,
+    "timeMonth": 274,
     "timeYear": 221,
     "dailyMinutesDown": {}
   },
@@ -49,8 +49,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.91%",
     "time": 404,
-    "timeDay": 162,
-    "timeWeek": 335,
+    "timeDay": 306,
+    "timeWeek": 322,
     "timeMonth": 309,
     "timeYear": 404,
     "dailyMinutesDown": {
@@ -77,9 +77,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 365,
-    "timeDay": 685,
-    "timeWeek": 452,
-    "timeMonth": 415,
+    "timeDay": 352,
+    "timeWeek": 414,
+    "timeMonth": 412,
     "timeYear": 365,
     "dailyMinutesDown": {
       "2023-12-06": 31
@@ -97,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 788,
-    "timeDay": 1034,
-    "timeWeek": 733,
-    "timeMonth": 754,
+    "timeDay": 610,
+    "timeWeek": 705,
+    "timeMonth": 743,
     "timeYear": 788,
     "dailyMinutesDown": {}
   },
@@ -110,17 +110,17 @@
     "slug": "o365",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "82.70%",
-    "uptimeWeek": "87.77%",
-    "uptimeMonth": "93.93%",
+    "uptimeDay": "85.47%",
+    "uptimeWeek": "87.87%",
+    "uptimeMonth": "93.91%",
     "uptimeYear": "99.49%",
     "time": 261,
-    "timeDay": 290,
-    "timeWeek": 280,
+    "timeDay": 291,
+    "timeWeek": 279,
     "timeMonth": 251,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2024-09-10": 231,
+      "2024-09-10": 222,
       "2024-09-09": 74,
       "2024-09-08": 160,
       "2024-09-07": 353,
@@ -138,7 +138,7 @@
       "2024-08-26": 143,
       "2024-08-25": 151,
       "2024-08-24": 243,
-      "2024-08-23": 4
+      "2024-08-23": 23
     }
   }
 ]
